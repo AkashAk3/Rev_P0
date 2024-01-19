@@ -1,0 +1,26 @@
+Passenger ID,First Name,Last Name,Gender,Age,Nationality,Airport Name,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,Arrival Airport,Pilot Name,Flight Status,Airline Code,TravelID
+10856,Edithe,Leggis,Female,62,Japan,Coldfoot Airport,US,United States,NAM,North America,6/28/2022,CXF,Edithe Leggis,On Time,AA,TRV10856
+43872,Elwood,Catt,Male,62,Nicaragua,Kugluktuk Airport,CA,Canada,NAM,North America,12/26/2022,YCO,Elwood Catt,On Time,AC,TRV43872
+42633,Darby,Felgate,Male,67,Russia,Grenoble-IsÃƒÆ’Ã‚Â¨re Airport,FR,France,EU,Europe,1/18/2022,GNB,Darby Felgate,On Time,AF,TRV42633
+78493,Dominica,Pyle,Female,71,China,Ottawa / Gatineau Airport,CA,Canada,NAM,North America,9/16/2022,YND,Dominica Pyle,Delayed,AC,TRV78493
+82072,Bay,Pencost,Male,21,China,Gillespie Field,US,United States,NAM,North America,2/25/2022,SEE,Bay Pencost,On Time,AA,TRV82072
+39630,Lora,Durbann,Female,55,Brazil,Coronel HorÃƒÆ’Ã‚Â¡cio de Mattos Airport,BR,Brazil,SAM,South America,6/10/2022,LEC,Lora Durbann,On Time,G3,TRV39630
+11940,Rand,Bram,Male,73,Ivory Coast,Duxford Aerodrome,GB,United Kingdom,EU,Europe,10/30/2022,QFO,Rand Bram,Cancelled,BA,TRV11940
+26470,Perceval,Dallosso,Male,36,Vietnam,Maestro Wilson Fonseca Airport,BR,Brazil,SAM,South America,4/7/2022,STM,Perceval Dallosso,Cancelled,G3,TRV26470
+29447,Aleda,Pigram,Female,35,Palestinian Territory,Venice Marco Polo Airport,IT,Italy,EU,Europe,8/20/2022,VCE,Aleda Pigram,On Time,AZ,TRV29447
+75035,Burlie,Schustl,Male,13,Thailand,Vermilion Airport,CA,Canada,NAM,North America,4/6/2022,YVG,Burlie Schustl,On Time,AC,TRV75035
+29278,Porty,Jori,Male,39,Tunisia,Nuevo Casas Grandes Airport,MX,Mexico,NAM,North America,5/27/2022,NCG,Porty Jori,Cancelled,AM,TRV29278
+90106,Briant,De La Haye,Male,71,Russia,Ruben Cantu Airport,PA,Panama,NAM,North America,2/6/2022,SYP,Briant De La Haye,Delayed,CM,TRV90106
+19631,Kalie,Scoble,Female,47,Sweden,Loralai Airport,PK,Pakistan,AS,Asia,3/19/2022,LRG,Kalie Scoble,Delayed,PK,TRV19631
+58109,Catriona,Beaument,Female,77,Russia,Cudal Airport,AU,Australia,OC,Oceania,3/24/2022,CUG,Catriona Beaument,Delayed,QF,TRV58109
+53524,Amberly,Handling,Female,32,China,Farmington Regional Airport,US,United States,NAM,North America,3/7/2022,FAM,Amberly Handling,Delayed,AA,TRV53524
+22064,Dyna,De'Vere - Hunt,Female,22,China,Oudtshoorn Airport,ZA,South Africa,AF,Africa,7/18/2022,OUH,Dyna De'Vere - Hunt,Cancelled,SAA,TRV22064
+39783,Alvin,Wenzel,Male,12,Greece,Enshi Airport,CN,China,AS,Asia,3/29/2022,ENH,Alvin Wenzel,Delayed,CZ,TRV39783
+15461,Jerrine,Peeters,Female,87,Philippines,Thompson Airport,CA,Canada,NAM,North America,11/3/2022,YTH,Jerrine Peeters,Cancelled,AC,TRV15461
+97649,Warner,Driutti,Male,62,China,Guilin Liangjiang International Airport,CN,China,AS,Asia,9/5/2022,KWL,Warner Driutti,Cancelled,CZ,TRV97649
+61145,Paige,Hayhow,Male,24,Sweden,Crested Butte Airpark,US,United States,NAM,North America,2/19/2022,CSE,Paige Hayhow,Delayed,AA,TRV61145
+82431,Dorisa,Skill,Female,19,Ukraine,St Augustin Airport,CA,Canada,NAM,North America,11/5/2022,YIF,Dorisa Skill,Cancelled,AC,TRV82431
+45196,Bobbye,Patmore,Female,45,China,Port BergÃƒÆ’Ã‚Â© Airport,MG,Madagascar,AF,Africa,8/24/2022,WPB,Bobbye Patmore,On Time,MD,TRV45196
+98344,Jayme,Dairton,Female,29,Indonesia,Hato Corozal Airport,CO,Colombia,SAM,South America,8/6/2022,HTZ,Jayme Dairton,Delayed,AC,TRV98344
+40864,Sayre,Stroyan,Male,87,Indonesia,Elkhart Municipal Airport,US,United States,NAM,North America,3/20/2022,EKI,Sayre Stroyan,Cancelled,AA,TRV40864
+15774,Joellyn,Stutter,Female,8,Croatia,Timbedra Airport,MR,Mauritania,AF,Africa,2/19/2022,TMD,Joellyn Stutter,On Time,MRT,TRV15774
