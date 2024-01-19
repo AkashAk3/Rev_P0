@@ -35,10 +35,10 @@ class user_class:
         print(tabulate(data_tuples,headers=headers,tablefmt="pretty"))
         
     def view_users(self):
-        query="select * from signups limit  10"
+        query="select ID,username,role from signups"
         self.cursor.execute(query)
         result = self.cursor.fetchall()
-        data_tuples=[(row['ID'],row['username'],row['password'],row['role'])for row in result]
+        data_tuples=[(row['ID'],row['username'],row['role'])for row in result]
         headers=result[0].keys()
         print(tabulate(data_tuples,headers=headers,tablefmt="pretty"))
         
