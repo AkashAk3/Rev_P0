@@ -35,7 +35,7 @@ class admin_class:
         print(tabulate(data_tuples,headers=headers,tablefmt="pretty"))
         
     def view_users(self):
-        query="select * from signups limit  10"
+        query="select * from signups"
         self.cursor.execute(query)
         result = self.cursor.fetchall()
         data_tuples=[(row['ID'],row['username'],row['password'],row['role'])for row in result]
